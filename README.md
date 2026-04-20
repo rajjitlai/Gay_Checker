@@ -1,28 +1,41 @@
+# Gay Checker - The Ultimate Prank 🏳️‍🌈
 
-# You Got Prank
+An interactive, high-quality prank web application designed to surprise your friends with a question they can't say "No" to!
 
-Welcome to the "You Got Prank" GitHub repository! This project is all about bringing joy and laughter through harmless pranks.
-Whether you want to surprise your friends or just have a good time.
+## ✨ Features
+- **Unclickable "No" Button:** A highly evasive button that moves randomly on hover.
+- **Glassmorphism UI:** Modern, sleek design using CSS backdrop filters and gradients.
+- **Interactive Audio:** Real-time sound effects for both "Yes" and (the impossible) "No" responses.
+- **Responsive Design:** Works flawlessly on mobile, tablet, and desktop.
+- **Optimized Codebase:** Refactored with ES6+ standards, clean CSS variables, and zero global leaks.
 
-## Features:
-1. **Interactive web page with a yes or no question.**
-2. **A surprising and humorous response to the user's input.**
-3. **Customizable content to tailor the prank to your friend's sense of humor.**
+## 🚀 How it Works
+1. The user is presented with a simple question: "Are you GAY?"
+2. When the user attempts to hover over the "No" button, it teleported to a random location in the viewport.
+3. Clicking "Yes" triggers a celebratory popup with a classic meme and audio.
+4. If a user somehow manages to click "No" (e.g., via keyboard navigation), they are welcomed into the "Straight Family" with a Gigachad surprise.
 
-## How it works:
-The project uses a combination of HTML for the structure, CSS for styling, and JavaScript for interactivity. The main prank is implemented in the JavaScript file, where the program takes the user's input and delivers a fun response.
-## How to use:
+## 🛠️ Built With
+- **HTML5:** Semantic structure.
+- **CSS3:** Flexbox, CSS Variables, and Glassmorphism.
+- **JavaScript (ES6+):** Robust event handling and dynamic positioning.
+- **Font Awesome:** For crisp, modern icons.
 
-## Contribution:
-If you have a hilarious prank idea or an improvement to an existing prank, feel free to contribute! Open an issue to discuss your idea or submit a pull request with your changes.
+## 📂 Project Structure
+```text
+gay-checker/
+├── assets/
+│   ├── audio/     # Sound effects
+│   └── images/    # Meme assets
+├── index.html     # Main entry point
+├── style.css      # Modern styles
+├── script.js     # Optimized logic
+├── README.md
+└── License
+```
 
-## Disclaimer:
-Remember, the goal is to spread joy and laughter, so always be considerate of others' feelings and preferences. Ensure that your pranks are harmless and well-received.
+## 📜 License
+This project is licensed under the [MIT License](License).
 
-## License:
-[License](/License)
-
-
-## Acknowledgments:
-
-Happy pranking! 😄
+## ⚠️ Disclaimer
+This is a harmless prank intended for laughter and joy. Please use it responsibly and be considerate of others! 😄
